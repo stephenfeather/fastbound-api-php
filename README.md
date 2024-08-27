@@ -24,7 +24,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
     }
   ],
   "require": {
-    "stephenfeather/fastbound-api-ph": "*@dev"
+    "stephenfeather/fastbound-api-php": "*@dev"
   }
 }
 ```
@@ -276,6 +276,10 @@ Endpoints require authentication. You will need your Fastbound Account Number an
 Additional information can be obtained from the [Fastbound Integration Guide](https://fastbound.help/en/articles/9326601-fastbound-integration-guide)
 
 ## Author
+
+Stephen Feather is the owner of Feather Arms. 
+Feather Arms uses Fastbound for electronic records keeping of FFL record keeping per 
+[ATF Ruling 2016-1 - Requirements to Keep Firearms Records Electronically](https://www.atf.gov/firearms/docs/ruling/2016-1-requirements-keep-firearms-records-electronically) and [ATF Ruling 2022-01 - Electronic Storage of Forms 4473](https://www.atf.gov/firearms/docs/ruling/2022-01-electronic-storage-forms-4473pdf/download)
 
 
 
