@@ -272,8 +272,8 @@ Class | Method | HTTP request | Description
 
 ## Documentation For Authorization
 
- All endpoints do not require authorization.
-
+Endpoints require authentication. You will need your Fastbound Account Number and an API Key to authenticate.
+Additional information can be obtained from the [Fastbound Integration Guide](https://fastbound.help/en/articles/9326601-fastbound-integration-guide)
 
 ## Author
 
